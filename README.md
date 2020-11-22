@@ -72,7 +72,9 @@ If you want the 'subject catalog' try Mr Jefferson's Library perspective, then l
 
 [viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms](purl.org/pd/viewtopic.php?f=30&t=1775)
 
-Alphabetic Index of Topics
+## Alphabetic Index of Topics
+
+Resid 231 is here: http://purl.org/white/id=231
 
 For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
@@ -140,7 +142,7 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - W32 Information Objects offwiki thread
 
-- W33 The Jefferson Library
+- W33 The Jefferson Library <purl.org/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001>
 
 - W34 Kingdom Animalia
 
