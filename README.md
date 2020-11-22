@@ -112,13 +112,13 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W15 Data Sources offsite data.gov - data fusion centre thread](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Data+Sources&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W16 Departments offwiki
+- [W16 Departments offwiki](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Departments&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W17 Directorates offwiki (scroll down)
+- [W17 Directorates offwiki (scroll down)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Directorates&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W18 Economics (Political Economy)
+- [W18 Economics (Political Economy)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Economics&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W19 Encyclopedia
+- [W19 Encyclopedia](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Encyclopedia&wikiId=1&cidReset=true&cidReq=L0001) Don't like my encyclopedia?  Here are some links to others, freely available in the stacks.
 
 - W20 Event Analysis offsite thread
 
