@@ -76,7 +76,7 @@ If you want the 'subject catalog' try Mr Jefferson's Library perspective, then l
 
 ## Alphabetic Index of Topics
 
-Resid 231 is here: http://purl.org/white/id=213
+Resid 231 is here: http://purl.org/white?id=213
 
 TODO: add links to all items below so easy to hop directly
 
