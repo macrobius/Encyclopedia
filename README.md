@@ -18,7 +18,7 @@ St Theodore's Institute (STI) - course ware (be very wary, bear).  There might b
 
 
 
-The wiki of all wiki's is resource id 231 (resid 231), available through a 'persistant URL' -- a White one, Gordo -- thus:  http://purl.org/white?id=231
+The wiki of all wiki's is resource id 213 (resid 213), available through a 'persistant URL' -- a White one, Gordo -- thus:  http://purl.org/white?id=213
 
 
 
@@ -72,11 +72,11 @@ If you want the 'subject catalog' try Mr Jefferson's Library perspective, then l
 
 ## Other taxonomies
 
-[viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms](purl.org/pd/viewtopic.php?f=30&t=1775)
+[viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms](http://purl.org/pd/viewtopic.php?f=30&t=1775)
 
 ## Alphabetic Index of Topics
 
-Resid 231 is here: http://purl.org/white/id=231
+Resid 231 is here: http://purl.org/white/id=213
 
 TODO: add links to all items below so easy to hop directly
 
@@ -146,7 +146,7 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - W32 Information Objects offwiki thread
 
-- W33 The Jefferson Library <purl.org/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001>
+- W33 The Jefferson Library purl.org/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001
 
 - W34 Kingdom Animalia
 
