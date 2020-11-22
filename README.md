@@ -120,29 +120,29 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W19 Encyclopedia](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Encyclopedia&wikiId=1&cidReset=true&cidReq=L0001) Don't like my encyclopedia?  Here are some links to others, freely available in the stacks.
 
-- W20 Event Analysis offsite thread
+- [W20 Event Analysis offsite thread](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Event+Analysis&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W21 Federal Union, Analysis offwiki
+- [W21 Federal Union, Analysis offwiki](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Federal+Union&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W22 Homeschooling offwiki course
+- [W22 Homeschooling offwiki course](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Homeschooling&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W23 Human Source Intelligence (HUMINT)
+- [W23 Human Source Intelligence (HUMINT)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Human+Source&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W24 Image Intelligence (IMINT)
+- [W24 Image Intelligence (IMINT)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Image+Intelligence&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W25 Information Preparedness
+- [W25 Information Preparedness](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Information+Preparedness&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W26 Intelligence Analysis
+- [W26 Intelligence Analysis](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Intelligence+Analysis&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W27 Intelligence Product offwiki (scroll to CIC)
+- [W27 Intelligence Product offwiki (scroll to CIC)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Intelligence+Product&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W28 Game Theory and Strategy
+- [W28 Game Theory and Strategy](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Game+Theory&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W29 Getting Organised
+- [W29 Getting Organised](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Getting+Organised&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W30 Governance - COFOG Directorates offwiki (scroll down)
+- [W30 Governance - COFOG Directorates offwiki (scroll down)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Objectives&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W31 Governance - Objectives offwiki
+- [W31 Governance - Objectives offwiki](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Objectives&wikiId=1&cidReset=true&cidReq=L0001)
 
 - W32 Information Objects offwiki thread
 
