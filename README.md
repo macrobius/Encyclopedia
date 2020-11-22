@@ -82,35 +82,35 @@ TODO: add links to all items below so easy to hop directly
 
 For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
-- W1 Biographical - Persons
+- [W1 Biographical - Persons](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Biographical+-+Persons&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W2 Biological Taxonomy
+- [W2 Biological Taxonomy](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Biological+Taxonomy&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W3 Cases offwiki
+- [W3 Cases offwiki](http://whigdev.com/sti/claroline/phpbb/viewtopic.php?topic=49&cidReset=true&cidReq=L0001) [stub]
 
 - W4 Chemical Nomenclature
 
-- W5 Code Dot Gov offsite code.gov
+- [W5 Code Dot Gov offsite code.gov](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Code+Dot+Gov&wikiId=1&cidReset=true&cidReq=L0001)
 
 - W6 Collection Guidance
 
-- W7 Collection Management
+- [W7 Collection Management](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Collection+Management&wikiId=1&cidReset=true&cidReq=L0001)
 
 - W8 Computer Based Training (CBTs)
 
-- W9 Confederate Government
+- [W9 Confederate Government](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Confederate+Government&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W10 Confederate Intelligence Community
+- [W10 Confederate Intelligence Community](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Confederate+Intelligence+Community&wikiId=1&cidReset=true&cidReq=L0001) 'It is more important for Confederates to *be* intelligent than to have it.
 
-- W11 Counter-Intelligence
+- [W11 Counter-Intelligence](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Counter-Intelligence&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W12 Critical Thinking and Intelligence Analysis
+- [W12 Critical Thinking and Intelligence Analysis](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Intelligence+Analysis&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W13 Cryptography
+- [W13 Cryptography](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Cryptography&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W14 Curriculum
+- [W14 Curriculum](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Curriculum&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W15 Data Sources offsite data.gov - data fusion centre thread
+- [W15 Data Sources offsite data.gov - data fusion centre thread](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Data+Sources&wikiId=1&cidReset=true&cidReq=L0001)
 
 - W16 Departments offwiki
 
