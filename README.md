@@ -144,52 +144,52 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W31 Governance - Objectives offwiki](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Objectives&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W32 Information Objects offwiki thread
+- [W32 Information Objects offwiki thread]
 
-- W33 The Jefferson Library purl.org/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001
+- [W33 The Jefferson Library](purl.org/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W34 Kingdom Animalia
+- [W34 Kingdom Animalia](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Kingdom+Animalia&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W35 Kingdom Plantae
+- [W35 Kingdom Plantae](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Kingdom+Plantae&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W36 Law- Blackstone
+- [W36 Law- Blackstone]
 
-- W37 Medical Response
+- [W37 Medical Response](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Medical+Response&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W38 Modern Aristotelian Curriculum
+- [W38 Modern Aristotelian Curriculum](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Curriculum&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W39 Nuclear Response (CBRN)
+- [W39 Nuclear Response (CBRN)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Nuclear+Response&wikiId=1&cidReset=true&cidReq=L0001)
 
-- W40 Ontologies offwiki
+- [W40 Ontologies offwiki]
 
-- W41 Operations Security (OPSEC)
+- [W41 Operations Security (OPSEC)]
 
-- W42 Opposition Government (OPGOV)
+- [W42 Opposition Government (OPGOV)]
 
 - W43 Organisations and Named Entities
 
-- W44 Preparedness Missions offwiki (scroll down)
+- [W44 Preparedness Missions offwiki (scroll down)]
 
-- W45 Programming
+- [W45 Programming]
 
-- W46 Racial Intelligence Estimatesoffsite
+- [W46 Racial Intelligence Estimatesoffsite]
 
-- W47 RESIDs offwiki Reverse Resid Index
+- [W47 RESIDs offwiki Reverse Resid Index]
 
-- W48 Search Engines, Databases, and Query Languages
+- [W48 Search Engines, Databases, and Query Languages]
 
-- W49 Security Engineering
+- [W49 Security Engineering\
 
-- W50 Signals and Signalling
+- [W50 Signals and Signalling]
 
-- W51 Signals Intelligence (SIGINT)
+- [W51 Signals Intelligence (SIGINT)]
 
-- W52 Strategic Intelligence (BEST MAPS)
+- [W52 Strategic Intelligence (BEST MAPS)]
 
-- W53 Taxonomies Used
+- [W53 Taxonomies Used]
 
-- W54 For Thread Index, See Vertical Files
+- [W54 For Thread Index, See Vertical Files]
 
-- W55 Threat Analysis
+- [W55 Threat Analysis]
 
 - W56 Web 3.0 Main page
