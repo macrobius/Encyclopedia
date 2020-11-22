@@ -2,7 +2,7 @@
 
 ## Prologue
 
-Whitespace (which is here)[http://whigdev.com/white/index.php?threads/whigdev-divisa-est-in-partes-tres.1944/]  - the lobby of the library
+Whitespace [which is here](http://whigdev.com/white/index.php?threads/whigdev-divisa-est-in-partes-tres.1944/)  - the lobby of the library
 
 
 
@@ -10,7 +10,7 @@ Previous Dissent (archival threads) - think of these as the 'vertical file'
 
 
 
-St Theodore's Institute (STI) - course ware.  There might be a course catalog somewhere, and also author, title, and subject catalogs
+St Theodore's Institute (STI) - course ware (be very wary, bear).  There might be a course catalog somewhere, and also author, title, and subject catalogs
 
 
 
