@@ -1,8 +1,8 @@
 # Encyclopedia
 
-ther taxonomies
+Other taxonomies
 
-viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms
+[viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms](purl.org/pd/viewtopic.php?f=30&t=1775)
 
 Alphabetic Index of Topics
 
