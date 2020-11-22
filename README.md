@@ -68,6 +68,8 @@ The threads are located across five different domains, so you will need to follo
 
 If you want the 'subject catalog' try Mr Jefferson's Library perspective, then look for JDNs (Jefflib Domain Nodes) -- they are a Knowledge Engineering concept, but work a lot like Dewey Decimal.  You will probably feel at home.
 
+[The Jefferson Library and JDN Index, etc](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=The+Jefferson+Library&wikiId=1&cidReset=true&cidReq=L0001)
+
 ## Other taxonomies
 
 [viewtopic.php?f=30&t=1775 | Thesaurus of tagged terms](purl.org/pd/viewtopic.php?f=30&t=1775)
@@ -75,6 +77,8 @@ If you want the 'subject catalog' try Mr Jefferson's Library perspective, then l
 ## Alphabetic Index of Topics
 
 Resid 231 is here: http://purl.org/white/id=231
+
+TODO: add links to all items below so easy to hop directly
 
 For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
