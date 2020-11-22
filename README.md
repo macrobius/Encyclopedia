@@ -78,8 +78,6 @@ If you want the 'subject catalog' try Mr Jefferson's Library perspective, then l
 
 Resid 231 is here: http://purl.org/white?id=213
 
-TODO: add links to all items below so easy to hop directly
-
 For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W1 Biographical - Persons](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Biographical+-+Persons&wikiId=1&cidReset=true&cidReq=L0001)
@@ -160,19 +158,19 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W39 Nuclear Response (CBRN)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Nuclear+Response&wikiId=1&cidReset=true&cidReq=L0001)
 
-- [W40 Ontologies offwiki]
+- [W40 Ontologies offwiki](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Ontologies&wikiId=1&cidReset=true&cidReq=L0001)
 
 - [W41 Operations Security (OPSEC)]
 
 - [W42 Opposition Government (OPGOV)]
 
-- W43 Organisations and Named Entities
+- [W43 Organisations and Named Entities](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Organisations&wikiId=1&cidReset=true&cidReq=L0001)
 
-- [W44 Preparedness Missions offwiki (scroll down)]
+- [W44 Preparedness Missions offwiki (scroll down)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Preparedness+Missions&wikiId=1&cidReset=true&cidReq=L0001)
 
-- [W45 Programming]
+- W45 Programming
 
-- [W46 Racial Intelligence Estimatesoffsite]
+- [W46 Racial Intelligence Estimates offsite](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Racial+Intelligence+Estimates&wikiId=1&cidReset=true&cidReq=L0001)
 
 - [W47 RESIDs offwiki Reverse Resid Index]
 
@@ -184,12 +182,14 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 
 - [W51 Signals Intelligence (SIGINT)]
 
-- [W52 Strategic Intelligence (BEST MAPS)]
+- [W52 Strategic Intelligence (BEST MAPS)](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Strategic+Intelligence&wikiId=1&cidReset=true&cidReq=L0001)
 
-- [W53 Taxonomies Used]
+- [W53 Taxonomies Used](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Taxonomies+Used&wikiId=1&cidReset=true&cidReq=L0001)
 
-- [W54 For Thread Index, See Vertical Files]
+- [W54 For Thread Index, See Vertical Files](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=Vertical+Files&wikiId=1&cidReset=true&cidReq=L0001)
 
 - [W55 Threat Analysis]
 
-- W56 Web 3.0 Main page
+- [W56 Web 3.0 Main page](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=__MainPage__&wikiId=1&cidReset=true&cidReq=L0001)  
+
+Are you ready for the JAMStack?  And don't even get me started about the LoneWolfStack
