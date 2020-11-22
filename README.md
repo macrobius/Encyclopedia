@@ -193,3 +193,5 @@ For another view of this list of terms (offsite): Thesaurus of Tagged Terms
 - [W56 Web 3.0 Main page](http://whigdev.com/sti/claroline/wiki/page.php?action=show&title=__MainPage__&wikiId=1&cidReset=true&cidReq=L0001)  
 
 Are you ready for the JAMStack?  And don't even get me started about the LoneWolfStack
+
+paste to latest version of this README: https://pastebin.com/raw/8heUR69n
