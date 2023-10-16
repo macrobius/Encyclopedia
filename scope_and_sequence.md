@@ -215,7 +215,8 @@ _Lamp of Experience_
 
 Underground History of American Education (better link needed)
 
-Re-Remembering the Misremembered Left
+Re-Remembering the Mis-remembered Left
+https://unconstrainedanalytics.org/report-re-remembering-the-mis-remembered-left-the-lefts-strategy-and-tactics-to-transform-america/
 
 Recommended:
 
