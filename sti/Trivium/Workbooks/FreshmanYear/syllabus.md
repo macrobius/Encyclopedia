@@ -1,4 +1,4 @@
-ntended for (teaching and learning) at the Classical Education High School Level.  These materials are intended for TEACHER TRAINING.  There are no corresponding student workbooks at this time.  
+Course Announcement for FALL 2024: https://x.com/weremight/status/1824877602190070139
 
 Intended Audience (teachers in training for a cottage or traditional school, parent teachers of a homeschool, autodidacts, possibly some students with careful mentoring, as the curriculum is untested).
 
@@ -14,7 +14,9 @@ The source materials for both the Main Book and the accompanying Workbooks, are 
 
 [3]: [Encyclopedia/sti/Trivium at main · macrobius/Encyclopedia · GitHub](https://github.com/macrobius/Encyclopedia/tree/main/sti/Trivium)
 
-Freshman Year closely parallel's Sister Miriam's _The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric 
+Freshman Year closely parallel's Sister Miriam's _The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric_
+
+https://www.amazon.com/Trivium-Liberal-Logic-Grammar-Rhetoric/dp/0967967503/
 
 This text should, if possible, be purchased.  The book is inexpensively available, at least on Kindle (which can use the web browser reader).  However if you unable to afford a copy, the workbooks and main text should cover the material in sufficient depth, though you will be missing an important resource and quite a treat to read.
 
@@ -25,6 +27,71 @@ Track 2 requires Track 1 and gives *additional* materials for classical language
 For further information, see the Curriculum Design Notes (to be published but available at this twitter thread)[4]:
 
 4: [Ambrosius Macrobius on X: "Appendix: Curriculum Design Notes " / X](https://x.com/weremight/status/1824622659805777988)
+
+# Course Meetings
+
+Meeting 1 (Sep 9th): Orientation and Chapter 1 Workbook
+- Prep: read introductory materials and syllabus
+https://macrobius.substack.com/p/training-course-for-teachers-in-classical
+https://macrobius.substack.com/p/trivium-1
+https://github.com/macrobius/Encyclopedia/tree/main/sti/Trivium
+https://github.com/macrobius/Encyclopedia/blob/main/sti/Trivium/Workbooks/FreshmanYear/syllabus.md)
+https://x.com/weremight/status/1804175145256522163)
+
+Meeting 2 (Sept 16th):  Introduction to Liberal Arts
+- Prep: read ch. 1 materials
+- Chapter 1 Workbook
+
+Meeting 3 (Sept 23rd): Grammar Review
+- prep: Download and start materials linked in Grammar Review workbook
+- Do the Grammar Review Workbook
+
+Meeting 4 (Sept 30th) Chapter 2 Workbook
+
+Meeting 5 (Oct 7th): Chapter 3 Workbook
+
+Meeting 6 (Oct 14th): English Prose Composition Review
+
+Meeting 7 (Oct 21st): Introduction to Logic
+- Recomended: Cothran, Traditional Logic 1
+- Chapter 4 Workbook
+- Chapter 5 Workbook
+
+Meeting 8 (Oct 28th): Introduction to High School Mathematics (required for Track 1 for background)
+
+Meeting 9 (Nov 4th): Introduction to Philosophy
+- prep: introduction to Aristotle workbook
+- prep: start reading Allan Bloom's _Closing of the American Mind_
+Topics:
+- what is moderate realism?
+- introduction to Aristotle (and start reading Lear)
+- The Scottish Scottish Enlightenment and Scottish Common Sense Realism (SCSR) School
+
+Meeting 10 (Nov 18th): Title TBD
+- Chapter 7 Workbook
+- Chapter 8 Workbook
+
+Meeting 11 (Dec 2nd): Fallacies and introduction to Debate
+- Chapter 9 Workbook
+
+Meeting 12 (Dec 9th): The Scientific Method 
+- Chapter 10 Workbook
+
+Meeting 13 (Dec 16th): Measurement Theory and the Philosophy of Nature
+- Measurement Theory Workbook
+
+Hilary Term 2025 ;)  It's His Term
+
+Meeting 14 (TBD Jan 2025): Rhetoric and Poetics (Composition)
+- Chapter 11 Workbook
+
+Meeting 15 (TBD Jan 2025): The Composition of Speeches
+Pro-Gymnasmata (Prolusions) handout
+ Orator Workbook
+
+Meeting 16 (TBD Jan 2025): Introduction to Parliamentary Law
+- Parliamentary Law Workbook (*when* and *how* to speak or debate in a meeting!)
+
 
 # Rhetoric Phase: Freshman Year topics
 
@@ -38,7 +105,7 @@ Track 2 is for: Latin and Greek, Prose Composition, STEM, and the Scholastic Phi
 
 ### Primary Texts:
 
-What if I can't obtain the texts?
+What if I can't obtain the texts?  Don't worry - we provide free online materials and workbooks, though you will be missing out on a fine text.
 
 Follows Sister Miriam Joseph's _The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric_ closely
 Optionally, Lear's introduction to Aristotle (See Track 2 Below)
