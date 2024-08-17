@@ -1,1 +1,115 @@
-This is where the Freshman Year List goes for now
+ntended for (teaching and learning) at the Classical Education High School Level.  These materials are intended for TEACHER TRAINING.  There are no corresponding student workbooks at this time.  
+
+Intended Audience (teachers in training for a cottage or traditional school, parent teachers of a homeschool, autodidacts, possibly some students with careful mentoring, as the curriculum is untested).
+
+The course is, naturally, divided into Freshman, Sophomore, Junior, and Senior year.  The entire Trivium is necessarily covered in Freshman year, because it is so necessary for the full programme.  In modern terms, the Trivium is 'Language Arts' and the Quadrivium is the common material, mostly Mathematics, for the STEM subjects (Science, Technology, Engineering, and Mathematics).  Since these are so necessary in the modern world, we are forced to compress the Classical Education curriculum a bit, to both the Trivium and first part of the Quadrivium in the first year!  This ends up making all the subjects very highly connected (a good thing, but requiring explanation to highlight it properly) and requires very careful sequencing to make sure the required elements are introduced before the subjects that need them.
+
+These workbooks so far only cover the Freshman year (so that it can begin in Fall 2024!).  They are meant to cover main teaching guide, 'the book', which is only virtual for now, and only partly available at Substack[1] (where it is being serialised), and this pinned Twitter/X Thread[2]:
+
+[1]: https://macrobius.substack.com
+
+[2]: [Ambrosius Macrobius on X: "Training Course for Teachers in Classical Schools " / X](https://x.com/weremight/status/1804175145256522163)
+
+The source materials for both the Main Book and the accompanying Workbooks, are archived at this Github Repository[3]:
+
+[3]: [Encyclopedia/sti/Trivium at main · macrobius/Encyclopedia · GitHub](https://github.com/macrobius/Encyclopedia/tree/main/sti/Trivium)
+
+Freshman Year closely parallel's Sister Miriam's _The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric 
+
+This text should, if possible, be purchased.  The book is inexpensively available, at least on Kindle (which can use the web browser reader).  However if you unable to afford a copy, the workbooks and main text should cover the material in sufficient depth, though you will be missing an important resource and quite a treat to read.
+
+Track 1, as I said, covers the basic and essential elements of the Trivium, and is heavily loaded in Freshman Year
+
+Track 2 requires Track 1 and gives *additional* materials for classical languages (only Latin in Freshman Year), and for STEM Subjects (Science and Mathematics), as well as more depth in the Philosophies of Aristotle, Plato, and the Scholastic Philosophy (Aquinas).
+
+For further information, see the Curriculum Design Notes (to be published but available at this twitter thread)[4]:
+
+4: [Ambrosius Macrobius on X: "Appendix: Curriculum Design Notes " / X](https://x.com/weremight/status/1824622659805777988)
+
+# Rhetoric Phase: Freshman Year topics
+
+### Overall topics covered Freshman Year:
+
+Introduction to the Trivium and Quadrivium (simultaneous)
+Treatment of Latin, Science, Math, Theology; Great Books, History, and Literature omitted
+
+Track 1, Track 2, Pedagogical Notes, and 'Track 3' with Curriculum Design Notes
+Track 2 is for: Latin and Greek, Prose Composition, STEM, and the Scholastic Philosophy
+
+### Primary Texts:
+
+What if I can't obtain the texts?
+
+Follows Sister Miriam Joseph's _The Trivium: The Liberal Arts of Logic, Grammar, and Rhetoric_ closely
+Optionally, Lear's introduction to Aristotle (See Track 2 Below)
+
+### Optional primary materials:
+
+Cothran on Logic and Rhetoric (TODO: requires links [5] and elaboration)
+Aristotle's Rhetoric and Poetics (TODO: requires links and elaboration)
+
+[5]:[Keywords: cothran - Christianbook.com](https://www.christianbook.com/apps/easyfind?Ntt=cothran&Ntk=keywords&action=Search&Ne=0&event=ESRCG&nav_search=1&cms=1&ps_exit=RETURN%7Clegacy&ps_domain=www)
+
+Cothran's work available at Memoria Press recommended for directness and simplicity (NOTE: I have no financial interest in the publisher).  You only need to buy the student workbook, not all the materials, unless you are teaching children the subject.  I have not examined the teacher's materials, so have opinion on them.
+## Track 1 texts for Freshman Year:
+### Workbooks for Trivium ch. 1-3
+
+TBD
+
+### Grammar Review
+
+TBD
+
+## Track 2 texts for Freshman Year:
+
+NOTE: only Philosophy, Mathematics, and Logic (essentially the Trivium) will initially have workbooks.  For Classical Languages and Science you will need to purchase the book and learn the subject on your own, if you don't know it as a teacher.  Further guidance will be provided later, as the Homeschooling curriculum materials (that is, the K-8 Grammar Phase and Dialectic Phase) are fleshed out.  Since these will be intended for children, they should be very easy for adult learners.  Or not. :D
+
+Fortunately, homeschooling curricula Classical Christian Education (CCE) is a very well-populated space -- mostly in need of correction to teach the REAL Trivium and Quadrivium, but somewhat competent in other subjects.
+
+Recommended:[6]
+
+ [6]: [Classical Homeschool Curriculum - Christianbook.com](https://www.christianbook.com/page/homeschool/classical?event=Homeschool|1000117)
+### Latin
+
+latin_guide workbook (TBD)
+
+Henle, Latin and Grammar[7]:
+
+[7]: [Henle Latin Curriculum - Christianbook.com](https://www.christianbook.com/page/homeschool/foreign-languages/latin/henle-latin?search=henle&search_term=henle&ps_exit=RETURN|legacy)
+
+You need the blue grammar and purple first year book.
+### Philosophy
+
+Workbook introduction to Aristotle is included in Track 1 materials.
+
+No materials for Plato's dialogues are provided at this time.  Read Allan Bloom's _Closing of the American Mind_ as an introduction to Plato, for now.
+
+Aristotle's _Organon_, and selections from Physics, de Anima, etc. (LINK TBD)
+Hamilton and Cairns, _The Dialogues of Plato_ (LINK TBD)
+
+Scholastic Philosophy: read the texts of Coppen's (on Logic and Mental Philosophy, and Moral Philosophy) and Brother Louis of Poissy's short summa (all three texts are very short and linked in the main book's introductory material).  These will be referenced and discussed in the primary text and workbooks, but are Track 1 optional, Track 2 required.  Simply pursue the topic using the Track 1 materials.
+
+### Mathematics
+Euclid's _Elements_ (required text for Track 2, recommended for Track 1)
+
+The corresponding workbook is included in Track 1 materials because it relates closely to Logic and Mathematical Proofs ('demonstrations' and deduction)
+### Logic
+Workbook on Boethius and Porphyry's Isagoge (TBD)
+
+### Science
+
+For Freshman Year Science, you will need to read the texts on your own:
+
+Biology text [8]
+
+Botany text [9]
+
+Gray's Anatomy
+
+[8]: LINK TBD
+
+[9]: [http://herba.msu.ru/shipunov/school/biol_154/textbook/intro_botany.pdf](http://herba.msu.ru/shipunov/school/biol_154/textbook/intro_botany.pdf) (Free online)
+
+## Appendix: How to print a PDF from the Markdown Source
+
+TBD

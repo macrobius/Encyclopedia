@@ -1,5 +1,11 @@
 ## Trivium 1: Introduction for the Rhetoric Years
 
+Very rough notes for now.
+
+Read the syllabus.md file for content.
+
+-----
+
 Workbooks/FreshmanYear introduction/ grammar_review/ ch1/ ch2/ syllabus.md virtual_lab_manual/ aritotle_guide/ track2/ (Latin, Science, Mathematics) beginning_programming/
 
 for now: introduction/ grammar_review/ ch2/ and syllabus.md
