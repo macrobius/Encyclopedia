@@ -1,4 +1,4 @@
-Course Announcement for FALL 2024: https://x.com/weremight/status/1824877602190070139
+**Course Announcement for FALL 2024**: https://x.com/weremight/status/1824877602190070139
 
 Intended Audience (teachers in training for a cottage or traditional school, parent teachers of a homeschool, autodidacts, possibly some students with careful mentoring, as the curriculum is untested).
 
@@ -30,19 +30,24 @@ For further information, see the Curriculum Design Notes (to be published but av
 
 # Course Meetings
 
-Meeting 1 (Sep 9th): Orientation and Chapter 1 Workbook
+**Meeting 1** (Sep 9th): Orientation and Chapter 1 Workbook
 - Prep: read introductory materials and syllabus
+
 https://macrobius.substack.com/p/training-course-for-teachers-in-classical
+
 https://macrobius.substack.com/p/trivium-1
+
 https://github.com/macrobius/Encyclopedia/tree/main/sti/Trivium
+
 https://github.com/macrobius/Encyclopedia/blob/main/sti/Trivium/Workbooks/FreshmanYear/syllabus.md)
+
 https://x.com/weremight/status/1804175145256522163)
 
-Meeting 2 (Sept 16th):  Introduction to Liberal Arts
+**Meeting** 2** (Sept 16th):  Introduction to Liberal Arts
 - Prep: read ch. 1 materials
 - Chapter 1 Workbook
 
-Meeting 3 (Sept 23rd): Grammar Review
+**Meeting** 3 (Sept 23rd): Grammar Review
 - prep: Download and start materials linked in Grammar Review workbook
 - Do the Grammar Review Workbook
 
