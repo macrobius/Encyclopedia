@@ -46,6 +46,7 @@ Where are the 'stacks'
 
 To Do: and in references to Farrand and Lyly
 
+```
 Meeting 1: 
 Latin 1: Pronunciation, pp. 1-14; roman numerals
 Orbis Pictus Sensualium: see in Workbook for Grammar Review
@@ -255,3 +256,5 @@ Latin Grammar:
 Greek 1: LXVII-LXX (Greek needs two or three more weeks beyond this)
 Greek Grammar: 
 Greek Prose Comp: North and Hillard 49-50
+```
+
