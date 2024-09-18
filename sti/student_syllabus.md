@@ -8,11 +8,13 @@ NOTE: This programme is planned for academic year 2025-2026.  An intrepid studen
 
 The curriculum is divided, each year, into the following 'courses' for convenience:
 
+```
 Seminar (the integrated Classical Liberal Arts Curriculum)
 Classics (Latin and (optional) Greek)
 Mathematics
 Science
 A Practical
+```
 
 Both Student and Teacher manuals (will be) provided and you can see the progress in creating them at https://macrobius.substack.com
 
@@ -71,11 +73,10 @@ https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0086
 
 ## Sophomore Mathematics and Science
 
-Euclid, continued, along with Advanced Mathematics
+Euclid, continued, along with Advanced Mathematics (handout TBD)
 
-https://dev.azure.com/jegoodwin30088/Daynotes/_wiki/wikis/Daynotes.wiki/5106/Advanced-Mathematics-analysis
 
-If not done Freshman Year, then we need General Chemistry this year
+If t was not done Freshman Year, then we need General Chemistry this year
 
 Required text:
 
