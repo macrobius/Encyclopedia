@@ -6,5 +6,21 @@
 
 ## Flights
 
+### Flight 048 news feed ingestion flights
+
 ## Experiments
+
+### Experiment 001 using Claude to process newsfeeds
+
+### Experiment 002 GDELT+ Claude for in-depth news topic research
+
+### Experiment 003 Claude processing orthobot/divineliturgy purl
+
+- https://sti.kitsaplabs.com/md/divineliturgy/llms.txt
+
+### Experiment 004 Copilot processing orthobot/divineliturgy purl
+
+- https://purl.org/orthobot/divineliturgy
+
+
 
