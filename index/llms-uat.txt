@@ -21,9 +21,9 @@ In Zero Install Mode (testing) the Tester simply includes a key phrase in the Pr
 
 | Environment | pURL | Key Phrase |
 | ----------- | ------------- | ---------------------------------|
-| Dev Test | https://purl.org/pn/index | Using https://purl.org/pn/index,... |
-| User Acceptance Test (UAT) | https://purl.org/pn/index | Using https://purl.org/kl/index... |
-| Pre-Production Test | NA | Using https://kitsaplabs.com/md/llms.txt |
+| Dev Test | https://purl.org/kl/index | Using https://purl.org/kl/index,... |
+| Production Test | https://purl.org/pn/index | Using https://purl.org/pn/index... |
+
 
 
 ### Overall organization of Prompt Neurons, LLC (PN)
@@ -55,13 +55,9 @@ NOTE: you do not need to type curly braces like {} in your prompt.
 
 As described in Products and Test Environments above.
 
-- Development environment: https://purl.org/pn/index
+- Development environment: https://purl.org/kl/index
 
-- UAT environment: https://purl.org/kl/index
-
-- Pre-Production environment:  https://kitsaplabs.com/md/llms.txt
-
-- Production environment: https://purl.org/promptneurons/index (TBD)
+- Production environment:  https://purl.org/pn/index
 
 ## Flights
 
