@@ -1,0 +1,19 @@
+# Prompt Neurons, LLC
+
+Homepage: https://promptneurons.com
+
+## About
+
+Prompt Neurons, LL.C. is a Target Site of Use Case Testing
+
+
+## Site Structure
+
+- [E-store](https://promptneurons.com/shop/)
+
+For individual products listed in the E-store, see below
+
+## Products Listed
+
+- [Felix the Cat Test Product](https://promptneurons.com/product/felix-the-cat-test-product/)
+- [Prompt Neurons, LLC - Onboarding Checklist](https://promptneurons.com/product/prompt-neurons-onboarding-checklist/)
