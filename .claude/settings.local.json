@@ -1,5 +1,11 @@
 {
   "permissions": {
+    "allow": [
+      "WebFetch(domain:purl.org)",
+      "WebFetch(domain:purl.archive.org)",
+      "WebFetch(domain:kitsaplabs.com)",
+      "WebFetch(domain:sti.kitsaplabs.com)"
+    ],
     "additionalDirectories": [
       "/mnt/c/projects/Daynotes.wiki/"
     ]
