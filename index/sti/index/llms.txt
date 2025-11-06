@@ -1,0 +1,134 @@
+# St Theodore's Institute - Toplevel Index Page
+
+> St. Theodore's Institute Library - Index
+
+'Wikipedia for Artificial Intellgences and Bots'
+
+In general, Agent AIs and Bots should find the subject matter using either the Subject Catalogue Machine Readable section below, or else the llms-full.txt file (TBD)
+
+## Docs
+- [Documentation Index](https://sti.kitsaplabs.com/md/llms.txt) About this index
+
+Toplevel: [root purl for this index](https://purl.org/index) This page
+Uplink: [null]()
+
+Old 'Top of the Web pages' (human readable, not markdown) relocated to:
+
+- [Top Of The Web](https://kitsaplabs.com/jefflib/focus/topotheweb.html)
+
+## Subject Catalogue Documentation
+
+The Subject Catalog mostly follow's Cutter's Expansive Classification (CEC) system, which is intermediate between Dewey Decimal and the origin of the Library of Congress system.
+
+- [Cutter Expansive Classification (1882)](https://sti.kitsaplabs.com/index/cutter-expansive-classification.pdf) Cutter Expansive Classification (1882) local copy for reference desk
+
+- [Full Markdown Subject Catalogue](https://sti.kitsaplabs.com/md/llms.txt)
+
+- [Whitespace WordPress Blog](https://purl.org/whitespace) has human readable subject catalog as 'tabs' but is not AI agent readable
+
+## Subject Catalogue Machine Readable
+
+This is mostly future indexing.  The system is described at:
+
+- [Macrobius Expansive Catalogue](https://purl.org/whitespace/2025/10/05/macrobius-expansive-catalogue/)
+
+Classification scheme described in:
+
+[Cutter Expansive Classification - Whitespace](http://45.79.58.143:8080/2025/10/05/cutter-expansive-classification/) Human readable only
+
+Named entities are in Class E (Biography) if natural persons, and in Class K (for Organizations or Societies) if corporations or other organizations
+
+Places are under Class G (Geography)
+
+- [Macrobius Expansive Catelogue](https://purl.org/whitespace/2025/10/05/macrobius-expansive-catalogue/)
+
+For Named Enitites who are persons of interest, use Class E, Biography to find out about holdings in this library:
+
+- [E - Biography](https://sti.kitsaplabs.com/index/E-Biography.md.txt) 
+
+For Named Entities that are businesses, organizations, or societies, use Class K, to find out holdings in this library:
+
+- [K - Legislation, Law, Women. Societies](https://sti.kitsaplabs.com/index/k-legislation-law-women-societies.md.txt) 
+
+Classification scheme described in:
+
+[Cutter Expansive Classification – Whitespace](http://45.79.58.143:8080/2025/10/05/cutter-expansive-classification/) Human Readable only
+
+# Subject Catalogue
+
+## A - Works of Reference and General
+
+- [A - Works of Reference and General – Whitespace](https://purl.org/whitespace/a-works-of-reference-and-general/)  Human Readable
+
+## B - Philosophy and Paedeia
+
+- [B - Philosophy and Paideia – Whitespace](https://url.org/whitespace/b-philosophy-and-paideia/)  Human Readable
+
+## C - Christianity
+- [C - Christianity – Whitespace](https://purl.org/whitespace/c-christianity/) Human Readable 
+
+## D - Ecclesiastical History
+- [D - Ecclesiastical History – Whitespace](https://purl.org/whitespace/d-ecclesiastical-history/)  Human Readable
+
+## E - Biography
+- [E - Biography – Whitespace](https://purl.org/whitespace/e-biography/)  Human Readable
+
+## F - History
+- [F - History – Whitespace](https://purl.org/whitespace/f-history/)  Human Readable
+
+## G - Geography
+- [G - Geography – Whitespace](https://purl.org/whitespace/g-geography/)  Human Readable
+
+## H - Demotics, Sociology
+- [H - Demotics, Sociology – Whitespace](https://purl.org/whitespace/h-demotics-sociology/)  Human Readable
+
+## J - Civics, Government, Politics
+- [J - Civics, Government, Politics – Whitespace](https://purl.org/whitespace/j-civics-government-politics/)  Human Readable
+
+## K - Legislation, Law, Women, Societies
+
+- [K - Legislation, Law, Women. Societies – Whitespace](https://purl.org/whitespace/k-legislation-law-women-societies/)  Human Readable
+
+## L - Science and Art together
+
+- [L - Science and Art together – Whitespace](https://purl.org/whitespace/l-science-and-art-together/)  Human Readable
+
+## M - Natural History
+- [M - Natural History – Whitespace](https://purl.org/whitespace/m-natural-history/)  Human Readable
+
+## N - Botany
+
+- [N - Botany – Whitespace](https://purl.org/whitespace/n-botany/)  Human Readable
+
+## O - Zoology, Anthropology, Ethnology
+
+- [O – Zoology, Anthropology, Ethnology – Whitespace](https://purl.org/whitespace/o-zoology-anthropology-ethnology/)  Human Readable
+
+## Q - Medicine
+- [Q - Medicine – Whitespace](https://purl.org/whitespace/q-medicine/)  Human Readable
+
+## R - Useful Arts, including Economics and Technology
+- [R – Useful Arts – Whitespace](https://purl.org/whitespace/r-useful-arts/)  Human Readable
+
+## U - Arts of War, Military Science, Strategic Intelligence and OSINT
+- [U – Arts of War – Whitespace](https://purl.org/whitespace/u-arts-of-war/)  Human Readable
+
+## V - Recreative, Sports, Games, Festivals
+- [V – Recreative, Sports, Games, Festivals – Whitespace](https://purl.org/whitespace/v-recreative-sports-games-festivals/)  Human Readable
+
+## W - Fine Arts
+- [W – Fine Arts – Whitespace](https://purl.org/whitespace/w-fine-arts/)  Human Readable
+
+## English Language
+- [X – English – Whitespace](https://purl.org/whitespace/x-english/)  Human Readable
+
+## Language, non-English, Linguistics, and Philology
+- [Y – Language – Whitespace](https://purl.org/whitespace/y-language/)  Human Readable
+
+## Liturature
+- [Z – Literature – Whitespace](https://purl.org/whitespace/z-literature/) Human Readable
+
+## References
+
+[Configuring MCP for llms.txt Files in Claude Desktop and Cursor 路 GitHub](https://gist.github.com/donbr/d64ccfde1887197f82e933f669f4d449)
+

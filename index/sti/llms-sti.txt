@@ -1,4 +1,4 @@
-# Top of Prompt Neurons index - Development Version 
+# Top of Prompt Neurons index - STI Version 
 
 > This is main branch ... you are currently testing pre-prod domain KITSAPLABS, subdomain STI 
 

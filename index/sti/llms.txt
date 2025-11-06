@@ -1,0 +1,21 @@
+# St Theodore's Institute
+
+> Classical Christian Education in the Liberal Arts Tradition
+
+
+
+Kitsaplabs.com is an LOB (Line of Business) of Prompt Neurons, LLC, providing webhost reseller services internally to other business units.
+
+## Websites Managed
+
+- [St Theodore's Institute](https://sti.kitsaplabs.com): St. Theodore's Insitute training site
+- [Owncloud File Sharing](https://purl.org/sanddollar/share): Redirects to STI and is used for hosting files here
+
+## Docs
+- [Documentation Index](https://sti.kitsaplabs.com/index/llms.txt)
+
+
+## Optional
+
+- [Robots.txt](https://sti.kitsaplabs.com/robots.txt): AI crawler access configuration (TBD)
+- [Sitemap](https://sti.kitsaplabs.com/sitemap.xml): Site structure for search engines (TBD)

@@ -1,0 +1,97 @@
+# St Theodore's Institute
+
+> Classical Christian Education in the Liberal Arts Tradition
+
+
+
+Kitsaplabs.com is an LOB (Line of Business) of Prompt Neurons, LLC, providing webhost reseller services internally to other business units.
+
+## Websites Managed
+
+- [St Theodore's Institute](https://sti.kitsaplabs.com): St. Theodore's Insitute training site
+- [Owncloud File Sharing](https://purl.org/sanddollar/share): Redirects to STI and is used for hosting files here
+
+## Docs
+- [About](https://sti.kitsaplabs.com/md/Encyclopedia.md)
+
+
+## Subject Pages at Whitespace Blog
+
+This is mostly future indexing.  The system is described at:
+
+- [Macrobius Expansive Catelogue](https://purl.org/whitespace/2025/10/05/macrobius-expansive-catalogue/)
+
+Classification scheme described in 
+
+[Cutter Expansive Classification – Whitespace](http://45.79.58.143:8080/2025/10/05/cutter-expansive-classification/)
+
+Named entities are in Class E (Biography) if natural persons, and in Class K (for Organizations or Societies) if corporations or other organizations
+
+Places are under Class G (Geography)
+
+### A - Works of Reference and General
+- [A – Works of Reference and General – Whitespace](https://purl.org/whitespace/a-works-of-reference-and-general/)  Human Readable
+
+### B - Philosophy and Paideia
+- [B – Philosophy and Paideia – Whitespace](https://url.org/whitespace/b-philosophy-and-paideia/)  Human Readable
+
+### C - Christianity
+- [C – Christianity – Whitespace](https://purl.org/whitespace/c-christianity/) 
+
+### D - Ecclesiastical History
+- [D – Ecclesiastical History – Whitespace](https://purl.org/whitespace/d-ecclesiastical-history/)  
+
+### E - Biography
+- [E – Biography – Whitespace](https://purl.org/whitespace/e-biography/)  
+
+### F - History
+- [F – History – Whitespace](https://purl.org/whitespace/f-history/)  
+
+### G - Geography
+- [G – Geography – Whitespace](https://purl.org/whitespace/g-geography/)  
+
+### H - Demotics and Sociology, Social Sciences
+- [H – Demotics, Sociology – Whitespace](https://purl.org/whitespace/h-demotics-sociology/)  
+
+### J - Civics, Government, Politics
+- [J – Civics, Government, Politics – Whitespace](https://purl.org/whitespace/j-civics-government-politics/)  
+
+### K - Legislation, Law, Women, Societies
+- [K – Legislation, Law, Women. Societies – Whitespace](https://purl.org/whitespace/k-legislation-law-women-societies/)  
+
+### L - Science and Art together
+- [L – Science and Art together – Whitespace](https://purl.org/whitespace/l-science-and-art-together/)  
+
+### M - Natural History
+- [M – Natural History – Whitespace](https://purl.org/whitespace/m-natural-history/)  
+
+### N - Botany
+- [N – Botany – Whitespace](https://purl.org/whitespace/n-botany/)  Human Readable
+
+### O - Zoology, Anthropology, Ethnology
+- [O – Zoology, Anthropology, Ethnology – Whitespace](https://dev.azure.com/jegoodwin30088/Daynotes/_wiki/wikis/Daynotes.wiki/8767/051949TOCT25-Links-to-MEC-pages)  
+
+### Q - Medicine
+- [Q - Medicine – Whitespace](https://purl.org/whitespace/q-medicine/)  Human Readable
+
+### R - Useful Arts, including Business and Economics and Finance
+- [R – Useful Arts – Whitespace](https://purl.org/whitespace/r-useful-arts/)  Human Readable
+
+### U - Arts of War
+- [U – Arts of War – Whitespace](https://purl.org/whitespace/u-arts-of-war/) 
+
+### V - Recreative, Sports, Games, Festivals
+- [V – Recreative, Sports, Games, Festivals – Whitespace](https://purl.org/whitespace/v-recreative-sports-games-festivals/)  
+
+### W - Fine Arts
+- [W – Fine Arts – Whitespace](https://purl.org/whitespace/w-fine-arts/)  
+
+### X - English Language and Literature
+- [X – English – Whitespace](https://purl.org/whitespace/x-english/)  
+
+### Y - Language and Linguistics (Philology)
+- [Y – Language – Whitespace](https://purl.org/whitespace/y-language/)  
+
+### Z - Literature, non-English
+- [Z – Literature – Whitespace](https://purl.org/whitespace/z-literature/)
+

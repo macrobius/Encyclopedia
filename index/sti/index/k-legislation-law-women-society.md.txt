@@ -1,0 +1,22 @@
+# St Theodore's Institute - Toplevel Index Page
+
+> Cutter Expansive Classification - Class K - Legislation, Law, Women, Societies
+
+Includes Named Entities that are organizations such as corporations, businesses, societies.
+
+
+
+## Docs
+- [Documentation Index](https://sti.kitsaplabs.com/md/llms-full.txt) About this index
+
+Toplevel: [root purl for this index](https://purl.org/index) This home page and equivalent to [St Theodore's Institute llms.txt](https://sti.kitsaplabs.com/index/llms.txt)
+
+Uplink: [null]()
+
+Old 'Top of the Web pages' (human readable, not markdown) relocated to:
+
+- [Top Of The Web](https://kitsaplabs.com/jefflib/focus/topotheweb.html)
+
+## List of Holdings for Class K
+
+[Summary Prompt Neurons, LLC](https://sti.kitsaplabs.com/md/promptneurons/llms.txt)
