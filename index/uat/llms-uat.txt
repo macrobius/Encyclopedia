@@ -1,0 +1,99 @@
+# Top of Prompt Neurons index - Development Version 
+
+> This is main branch ... you are currently testing development domain KITSAPLABS 
+
+## Onboarding for Testers
+
+Prompt Neurons, LLC is a startup and this onboarding documentation is intended for new interns who will be testing the products. 
+
+### Products and Test Environments
+
+The primary product, for which the company is named, is called 'Prompt Neurons' and is a client-side and server-side aid for Artificial Intelligences in various industry segments.  
+
+'Installation' of the product is via downloading and installing on a Desktop the EndOffice software, which is an installer for DLC (Downloadable Content) for
+each of the market segments.
+
+However, for testing purposes, there is a Zero Install option, which uses what
+we call 'Server Side Context'.  In this mode, the AI reads an llms.txt file
+on a server, and that provides the same context that the EndOffice product would on the client side.  
+
+In Zero Install Mode (testing) the Tester simply includes a key phrase in the Prompt, which provides a pURL (persistent URL) pointing to the llms.txt file to read:
+
+| Environment | pURL | Key Phrase |
+| ----------- | ------------- | ---------------------------------|
+| Dev Test | https://purl.org/kl/index | Using https://purl.org/kl/index,... |
+| Production Test | https://purl.org/pn/index | Using https://purl.org/pn/index... |
+
+
+
+### Overall organization of Prompt Neurons, LLC (PN)
+
+Prompt Neurons has the following 'departments' (areas of responsibility):
+
+- LD, the Leadership Team (founders)
+- MG, Management, responsiible for Product and Project Managment (PMs)
+- MK and LG, Marketing and Lead Generation (Sales)
+- CF, Customer Fulfilment, responsible for Customer Relationship Management (CRM) and Product Development, as well as E-Commerce
+- FN, Finance
+- SF, Security and Facilities, responsible for physical and digital infrastructure, and security of both
+
+Interns start as Testers in Department CF.
+
+## Test Configuration
+
+Tests are configured by pointing to one of the test environments as described, and also conducting a test procedure, called an Experiment or TTP (Tactic, Technique or Procedure).
+
+The proceedure is described in the llms.txt file and can be invoked along with the test environment, using sample prompts such as:
+
+- {Using http://purl.org/kl/index and context Experiment 003, what can you say about the Divine Liturgy}
+
+- {Using https://purl.org/kl/index, what are the Departments of Prompt Neurons}
+
+NOTE: you do not need to type curly braces like {} in your prompt.
+
+## Available Test Environments
+
+As described in Products and Test Environments above.
+
+- Development environment: https://purl.org/kl/index
+
+- Production environment:  https://purl.org/pn/index
+
+## Flights
+
+'Flights' are user experiences, represent a configuration of the test software or experimental procedure, possibly including a collection of subagents to
+whom tasks will be assiged by the main agent, which acts as Flight Controller
+
+Together, flights and experiments define the User Experience (UX) that a particular market segment will experience.  Interns perform User Acceptance Tests (UAT), largely in the Development environment, by conducting manual experiments and running automated ones, in the context of a particular flight and test environment.
+
+The flighting system (Flight Configuration, Flight Control, Flight Instrumentation, Flight Reporting) is being developed.  Here are some sketchy details for
+the experiments in this index:
+
+### Flight 048 news feed ingestion flights
+
+### Flight 004 for Orthodox Christian market segment
+
+## Experiments
+
+### Experiment 001 using Claude to process newsfeeds
+
+This experiment has manual steps
+
+TODO: provide TTP
+
+### Experiment 002 GDELT+ Claude for in-depth news topic research
+
+This experiment has manual steps
+
+TODO: provide TTP
+
+### Experiment 003 Claude processing orthobot/divineliturgy purl
+
+- https://sti.kitsaplabs.com/md/divineliturgy/llms.txt
+
+### Experiment 004 Copilot processing orthobot/divineliturgy purl
+
+- https://purl.org/orthobot/divineliturgy
+
+
+
